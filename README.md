@@ -5,7 +5,7 @@ I'm a human, a software developer, a hacker, an idealist. I like when things wor
 ## My online presence
 
 - [GitHub](https://github.com/jakub-trzebiatowski)
-- [LinkedIn](https://www.linkedin.com/in/jakub-trzebiatowski/)
+- [Blog](https://blog.jakubtrzebiatowski.me/)
 
 ## My GPG keys
 
